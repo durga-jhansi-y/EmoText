@@ -1,2 +1,1 @@
-# EmoText
-an ML model for detecting emotions in a text using NLP . 
+Place your datasets here. For example: GoEmotions dataset.
